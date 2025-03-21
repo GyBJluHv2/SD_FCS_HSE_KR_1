@@ -35,5 +35,5 @@
 public void TestAddIncomeAndExpense()
 {
     // Проверка баланса после дохода и расхода
-    Assert.AreEqual(750m, balance);
+    Assert.Equals(750m, balance);
 }
