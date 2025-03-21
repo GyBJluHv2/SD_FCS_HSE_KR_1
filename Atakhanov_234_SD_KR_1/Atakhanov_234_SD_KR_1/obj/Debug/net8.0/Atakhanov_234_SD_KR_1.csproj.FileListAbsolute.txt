@@ -1,0 +1,17 @@
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\bin\Debug\net8.0\Atakhanov_234_SD_KR_1.exe
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\bin\Debug\net8.0\Atakhanov_234_SD_KR_1.deps.json
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\bin\Debug\net8.0\Atakhanov_234_SD_KR_1.runtimeconfig.json
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\bin\Debug\net8.0\Atakhanov_234_SD_KR_1.dll
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\bin\Debug\net8.0\Atakhanov_234_SD_KR_1.pdb
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.csproj.AssemblyReference.cache
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.AssemblyInfoInputs.cache
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.AssemblyInfo.cs
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.csproj.CoreCompileInputs.cache
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.csproj.CopyComplete
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.dll
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\refint\Atakhanov_234_SD_KR_1.dll
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.pdb
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\Atakhanov_234_SD_KR_1.genruntimeconfig.cache
+C:\Users\Набиюлла\source\repos\Atakhanov_234_SD_KR_1\Atakhanov_234_SD_KR_1\obj\Debug\net8.0\ref\Atakhanov_234_SD_KR_1.dll
